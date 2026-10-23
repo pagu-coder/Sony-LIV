@@ -1,9 +1,9 @@
 {
-  "enabled": true,
+  "enabled": false,
   "package": "com.sonyliv",
   "current_version": "6.34.4",
   "latest_version": "999.999",
-  "force_update": true,
+  "force_update": false,
   "logo_url": "",
   "headline": "🔥🔐 New Update Available 🔐🔥",
   "headline_color": "#000000",
